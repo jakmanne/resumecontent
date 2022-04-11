@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Jakob Manne",
-    "occupation":"Fullstack Business Developer",
+    "occupation":"Tech Lead",
     "description":"I am currently working for Cutters, the fastest growing hairdresser firm in the Nordics.",
     "image":"profilepic.jpg",
     "bio":"Hi, I am a software developer who enjoys being part of the entire value chain from idea to production. Currently, I am working at Cutters, where our goal is to digitalize and automate all manuall tasks except the haircut. As one of the two software developers in company, I am involved in everything from developing new features to supporting the entire value chain in the company. I have experience working in large enterprises as well as startups and on my free time I enjoy trying out new technologies. I have a goal of starting to write blog articles on Medium in 2021, so follow along :D",        
@@ -50,7 +50,7 @@
     "work":[
       {
         "company":"Cutters",
-        "title":"Fullstack Business Developer",
+        "title":"Tech Lead",
         "years":"March 2020 - Present",
         "description":"Development of Cutters' technology platform. Working at the intersection of technology, user experience and business development. I'm a key person in the technical development of the company where I am involved in the whole process from idea to delivery."
       },
